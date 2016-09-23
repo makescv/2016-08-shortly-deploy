@@ -1,6 +1,7 @@
 .DS_Store
 .AppleDouble
 .LSOverride
+node_modules
 azure.err
 iisnode.yml
 
